@@ -1,4 +1,8 @@
-This folder contains the reduced spectra necessary to reproduce the results presented in Tasa-Chaveli et al. 2025.
+# Reduced Spectra for Tasa-Chaveli et al. (2025)
+
+This folder contains the reduced spectra necessary to reproduce the results presented in Tasa-Chaveli et al. (2025).
+
+## File Format
 
 Each file contains tabulated spectral data with the following columns:
 
